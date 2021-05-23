@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Unreal Agents",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Artemiy Maksimenko ",
+	"CreatedByURL": "https://github.com/artemiymax/bf-srl",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UnrealAgentsCore",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "UnrealAgentsEditor",
+			"Type": "Editor"
+		}
+	]
+}

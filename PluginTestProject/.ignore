@@ -1,0 +1,11 @@
+.vs
+.vscode
+Content
+DerivedDataCache
+Intermediate
+Saved
+Script
+Plugins/TestCommandPlugin/Content
+Plugins/TestCommandPlugin/Intermediate
+Plugins/TestPlugin/Content
+Plugins/TestPlugin/Intermediate
